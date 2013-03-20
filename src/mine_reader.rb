@@ -18,8 +18,7 @@ class MineReader
   
 end
 
-
-
+private
   class Parser
     require_relative 'mine_sweeper'
     
